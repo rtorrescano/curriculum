@@ -1290,6 +1290,10 @@ article {
 
 .cd-headline.slide .cd-words-wrapper {
   color: #02bdd5;
+  -webkit-transform: scale(0.7);
+          transform: scale(0.7);
+  
+
 }
 
 ul.social-icons {
