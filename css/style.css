@@ -1290,8 +1290,8 @@ article {
 
 .cd-headline.slide .cd-words-wrapper {
   color: #02bdd5;
-  font-size: 32px;  
-  display: block;
+  font-size: 20px;  
+  display: inline-block;
   text-align: center;
 }
 
